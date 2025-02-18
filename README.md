@@ -22,6 +22,8 @@ I have a bug to document technical stuffs that I do, which can be found at my [b
 <!-- BLOG-POST-LIST:START -->
 - [Soteria Roleplay]()
 - [Dimension Roleplay]()
+- [Magic Roleplay]()
+- [Website e-commerce]()
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Languages and Tools:</h3>
